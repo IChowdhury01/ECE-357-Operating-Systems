@@ -1,0 +1,12 @@
+total 208
+-rw-r--r--+ 1 Ivan None      0 Oct 29 23:15 c.out
+-rw-r--r--+ 1 Ivan None     49 Oct 29 23:13 cat.out
+-rw-r--r--+ 1 Ivan None     20 Oct 29 23:11 cat2.out
+-rwx------+ 1 Ivan None     83 Oct 27 13:12 input.txt
+-rwx------+ 1 Ivan None    140 Oct 29 21:38 Makefile
+-rwx------+ 2 Ivan None  10176 Oct 29 22:37 myShell.c
+-rwxr-xr-x+ 1 Ivan None 165301 Oct 29 22:55 myshell.exe
+-rwx------+ 1 Ivan None  11782 Oct 22 21:47 pset-w03.pdf
+drwx------+ 1 Ivan None      0 Oct 29 23:14 Screenshots
+-rwx------+ 1 Ivan None    894 Oct 29 23:10 testscript.sh
+-rwx------+ 1 Ivan None    535 Oct 29 23:10 testscript2.sh
