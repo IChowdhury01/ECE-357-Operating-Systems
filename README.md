@@ -2,24 +2,24 @@
 Problem sets for ECE-357: Computer Operating Systems
 
 ## Project Descriptions
-- Filesystem: Program that uses directory exploration library functions such as `readdir` to produce a recursive
+- **Filesystem**: Program that uses directory exploration library functions such as `readdir` to produce a recursive
 directory listing which is similar to the output of `find /starting_directory -ls`
 
-- Minicat: Implementation of the UNIX cat command for concatenating and copying files.
+- **Minicat**: Implementation of the UNIX cat command for concatenating and copying files.
 
-- Pipes: Upgraded implementation of cat: Concatenates and copies files using pipes rather than standard output.
+- **Pipes**: Upgraded implementation of cat: Concatenates and copies files using pipes rather than standard output.
 
-- Semaphores: Implementation of four semaphore operations utilizing spinlock mutexes: initialization, decrementing, blocking, and waking. 
+- **Semaphores**: Implementation of four semaphore operations utilizing spinlock mutexes: initialization, decrementing, blocking, and waking. 
 
-- Shell: Implementation of UNIX shell: launches one program at a time, with arguments. Reports exit status and resource usage statistics.
+- **Shell**: Implementation of UNIX shell: launches one program at a time, with arguments. Reports exit status and resource usage statistics.
 
-- Smear: Utilizes `mmap` system calls to search for and replace strings in files.
+- **Smear**: Utilizes `mmap` system calls to search for and replace strings in files.
 
-- Strace: Uses the `strace` UNIX command to analyze the system calls of a simple C program. Analysis of system calls and exit codes included.
+- **Strace**: Uses the `strace` UNIX command to analyze the system calls of a simple C program. Analysis of system calls and exit codes included.
 
 
 ## Tech Stack
-- C Programming Language
+- C
 - Assembly
 
 
