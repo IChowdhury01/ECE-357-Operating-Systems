@@ -18,10 +18,5 @@ directory listing which is similar to the output of `find /starting_directory -l
 - **Strace**: Uses the `strace` UNIX command to analyze the system calls of a simple C program. Analysis of system calls and exit codes included.
 
 
-## Tech Stack
-- C
-- Assembly
-
-
 ## Course Description
 Theory and implementation of modern computer operating systems. Message based and multiprocessor kernels. Networking and interprocess communication. Security, auditing and authentication. Device drivers, interrupt handling, task switching, virtual memory, memory management, scheduling, synchronization and locking. File systems, resource allocation and management. Real-time, fault-tolerant and high security operating systems. User environment and interface issues. Projects in operating system design and programming, case studies.
